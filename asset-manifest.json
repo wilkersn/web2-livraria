@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/web2-livraria/static/css/main.a09b3b92.css",
-    "main.js": "/web2-livraria/static/js/main.3a755b53.js",
+    "main.js": "/web2-livraria/static/js/main.589c6aa8.js",
+    "static/media/banner.png": "/web2-livraria/static/media/banner.199f9186148657810d8f.png",
     "static/media/fundo.png": "/web2-livraria/static/media/fundo.634e6bd472eff6edd80e.png",
     "index.html": "/web2-livraria/index.html",
     "main.a09b3b92.css.map": "/web2-livraria/static/css/main.a09b3b92.css.map",
-    "main.3a755b53.js.map": "/web2-livraria/static/js/main.3a755b53.js.map"
+    "main.589c6aa8.js.map": "/web2-livraria/static/js/main.589c6aa8.js.map"
   },
   "entrypoints": [
     "static/css/main.a09b3b92.css",
-    "static/js/main.3a755b53.js"
+    "static/js/main.589c6aa8.js"
   ]
 }
