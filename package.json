@@ -1,7 +1,7 @@
 {
   "name": "livraria",
   "version": "0.1.0",
-  "homepage": "https://wilkersn.github.io/web2-livraria"
+  "homepage": "https://wilkersn.github.io/web2-livraria",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
