@@ -1,9 +1,11 @@
 import './index.css'
 
+import BannerImg from "/imagens/banner.png"
+
 function Banner() {
     return(
         <header className="banner">
-        <img src="/imagens/banner.png" alt="O banner principal da página da livraria" />
+        <img src={BannerImg} alt="O banner principal da página da livraria" />
         </header>
     )
 }
