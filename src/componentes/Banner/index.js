@@ -1,6 +1,6 @@
 import './index.css'
 
-import BannerImg from "/imagens/banner.png"
+import BannerImg from "../../../public/imagens/banner.png"
 
 function Banner() {
     return(
